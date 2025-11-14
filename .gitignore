@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+*.log
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables
+*.env
+*.env.*
+
+# FastAPI / Uvicorn logs
+logs/
+*.log
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pip cache
+pip-wheel-me
